@@ -1,0 +1,2 @@
+Prefix plugins/RDiff/example/
+Plugin RDiff inputfile parameters.txt outputfile .

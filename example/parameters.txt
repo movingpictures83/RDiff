@@ -1,0 +1,7 @@
+data	data/
+a1	data/example_condition_A_replicate_1.bam
+a2	data/example_condition_A_replicate_2.bam
+b1	data/example_condition_B_replicate_1.bam
+b2	data/example_condition_B_replicate_2.bam
+gff	data/genes_example.gff3
+method	poisson
